@@ -1,11 +1,14 @@
 # Handbook . Dev
 
+Link to live website: [www.handbook.dev](https://handbook.dev/) [![Netlify Status](https://api.netlify.com/api/v1/badges/89798680-5d00-4615-9d15-bc7a11f75429/deploy-status)](https://app.netlify.com/sites/handbook-dev-react/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/89798680-5d00-4615-9d15-bc7a11f75429/deploy-status)](https://app.netlify.com/sites/handbook-dev-react/deploys)
+
+## Goals of project:
+Have you ever wanted a curated resource of the best training for your learning? For example lets say you want to build something in Next.js with a Mongo database. What learning resources are available? Which books, or videos are the best? Our goal is to give you the best resorces for your coding journey! 
 
 ## Setting Up
 
-This is the frontend, and will also need the backend https://github.com/explorejs/handbook-node running locally
+This is the frontend, and you will also need the backend https://github.com/explorejs/handbook-node running locally.
 
 ## Env
 
